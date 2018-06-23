@@ -6,7 +6,7 @@ babel --plugins transform-react-jsx src/app.jsx --out-file=public/scripts/app.js
 
 # Utilisation de webpack
 Ne pas oublier d'installer le webpack cli
-ce projet est créer a l'aide de yarn , afo, de le lancer il faut utiliser le commandr
+ce projet est créer a l'aide de yarn , afin de le lancer il faut utiliser la commande
 yarn run build
 
 
